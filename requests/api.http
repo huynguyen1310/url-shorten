@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://stackoverflow.com/questions/42619312/switch-php-versions-on-commandline-ubuntu-16-04"
+}
